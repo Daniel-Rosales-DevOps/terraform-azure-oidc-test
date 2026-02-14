@@ -19,5 +19,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
   name     = "rg-hello-world"
-  location = "EUROPE WEST"
+  location = "West Europe"
 }
